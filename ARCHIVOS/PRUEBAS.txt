@@ -1,0 +1,5 @@
+Auxiliatura de ipc 1
+
+ARCHIVOS\\ARCHIVO1.txt
+
+ARCHIVOS\\Llave Basico.txt
